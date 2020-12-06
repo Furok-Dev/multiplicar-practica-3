@@ -12,5 +12,10 @@
     "colors": "^1.4.0",
     "yargs": "^16.1.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^7.0.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
 }
